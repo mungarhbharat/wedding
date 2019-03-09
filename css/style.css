@@ -2472,7 +2472,7 @@ a:focus {
 @media (max-width: 767px) {
   .count-down-section #clock > div {
     width: calc(50% - 5px);
-  }
+  }  
 }
 
 .count-down-section #clock > div + div {

@@ -188,7 +188,9 @@
                 nextArrow: '<button type="button" class="slick-next"><i class="fas fa-chevron-right"></i></button>',
                 dots: true,
                 fade: true,
-                cssEase: 'linear'
+                cssEase: 'linear',
+                autoplay: true,
+                autoplaySpeed: 5000
             });
         }
     }
